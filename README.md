@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Oggy, 🌱 I’m currently learning FPT University
+I'm Backend Developer (Java Spring Boot) and learing DevOps (●'◡'●)
+I like mechkey and photography 🤣😎😎
+Check out my blog [ductan.me](https://ductan.me/)
+
 <!--
 **tanoggy/tanoggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
