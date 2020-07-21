@@ -2,7 +2,9 @@
 
 I'm Oggy, 🌱 I’m currently learning FPT University
 
-I'm Backend Developer (Java Spring Boot) and learing DevOps (●'◡'●)
+I'm Backend Developer (Java Spring Boot 🍀) and learing DevOps (●'◡'●)
+
+Falling on in love with Docker 🐳 and ReactJS ⚛️
 
 I like mechkey and photography 🤣😎😎
 
