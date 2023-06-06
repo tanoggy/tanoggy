@@ -1,27 +1,18 @@
-### Hi there 👋
+# Hi, I'm Tân! 👋
 
-I'm Oggy, 🌱 I’m currently learning FPT University
+Welcome to my GitHub profile! Here's a little bit about me:
 
-I'm Backend Developer (Java Spring Boot 🍀) and learing DevOps (●'◡'●)
+- 💼 I currently work in an SRE (Site Reliability Engineering) role in the ecommerce industry.
+- 🐳 I am passionate about Docker and Kubernetes. I love containerization and orchestrating applications using these technologies.
+- 🖥️ I'm also interested in infrastructure automation, cloud computing, and DevOps practices.
+- 📸 In my free time, I enjoy photography. Capturing moments and expressing creativity through images brings me joy.
+- ⌨️ Another hobby of mine is collecting mechanical keyboards (mechkeys). I find the tactile feedback and customization options fascinating.
+- 🌐 You can find more about me and my work on my [personal blog](https://ductan.me). Feel free to check it out!
 
-Falling on in love with Docker 🐳 and ReactJS ⚛️
-
-I like mechkey and photography 🤣😎😎
-
-Check out my blog [ductan.me](https://ductan.me/)
+## Get in Touch
+- 🌐 Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/hoangductan)).
 
 
-<!--
-**tanoggy/tanoggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always learning and exploring new technologies, so this list keeps growing!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile. Have a great day! 😄
