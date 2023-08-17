@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 🌐 You can find more about me and my work on my [personal blog](https://ductan.me). Feel free to check it out!
 
 ## Get in Touch
-- 🌐 Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/hoangductan)).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/hoangductan).
 
 
 I'm always learning and exploring new technologies, so this list keeps growing!
